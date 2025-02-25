@@ -1,2 +1,2 @@
 # Chatbot_using_NLP_AICTE
-training the implementation of chatbot
+training the implementation of chatbot using NLP
